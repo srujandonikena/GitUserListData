@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitUserList</string>
+    <string name="search">Search</string>
+    <string name="check_internet_connection">Please check the internet connection and try again.</string>
+    <string name="no_data_found">No data found..</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_internet_txt">No internet connection</string>
+    <string name="base_url">https://api.github.com</string>
+</resources>
