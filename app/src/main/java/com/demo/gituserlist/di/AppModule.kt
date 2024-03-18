@@ -1,4 +1,4 @@
-package com.demo.gituserlist.data.di
+package com.demo.gituserlist.di
 
 import android.content.Context
 import com.demo.gituserlist.data.api.ApiService
